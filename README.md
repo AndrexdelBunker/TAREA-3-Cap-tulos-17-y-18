@@ -73,17 +73,30 @@ Entender el funcionamiento de los CIRCUITOS RC  en la electronica moderna.
 
 ![image](https://user-images.githubusercontent.com/93835533/156462610-15f53eab-87a6-436e-89cf-e668d9a87657.png)
 
-
-
-
-
-
-
-
-
-
-
 **Capitulo 18**
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**5.CONCLUCIONES**
+
+En conclucion los inductores y bobinas representan gran parte del desarrollo tecnologico de las ultimas decadas, estos permitieron el concepto general de la electronica moderna gracias a aquer pudieron acoplarse a los aprendisajes previos de esta manera se genera en gran parte los sistemas electronicos cotidianos que tenemos en la actualidad. 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+**6.BIBLIOGRAFÍA**
+
+Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
+
+
+
+
+
+
+
+
+
 
 
 
